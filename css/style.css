@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "Graphs";
+    src: url("/assets/fonts/Grafitty\ outline.ttf");
+   }
+
+body {
+    background: url("../assets/cochonou.jpg");
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+    color: red;
+    font-family: "Graphs";
+}
+
+.menu {
+    text-align: center;
+    color: red;
+}
+h2 {
+    text-align: center;
+    background-color: white;
+    color: red;
+    font-family: "Graphs";
+}
+p {
+    text-align: center;
+    background-color: white;
+    color: red;
+}
+
+.clients {
+    background-color: white;
+    color: red;
+}
+
+.doggo1 {
+    border-radius: 100px;
+    height: 50%;
+    width: 90%;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    left: 42%;
+    background-color: aliceblue;
+}
+
+a {
+    font-size: 2em;
+}
+
+.stars {
+    width: 95%;
+}
+
+.miam {
+    width: 30%;
+    height: 30%;
+}
+
+
+.lebar {
+    width: 30%;
+    height: 40%;
+    margin: 10px;
+    margin-left: 35%;
+}
+
+.lebar2 {
+    width: 15%;
+    height: 30%;
+    margin: 10px;
+    margin-left: 42%;
+}
